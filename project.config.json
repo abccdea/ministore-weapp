@@ -1,0 +1,79 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "cloudfunctionRoot": "cloudfunctions/",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "appid": "wxc234c4478cef6462",
+  "projectname": "store-weapp",
+  "libVersion": "2.7.0",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "plugin": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "miniprogram": {
+      "current": 5,
+      "list": [
+        {
+          "id": -1,
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "detail",
+          "pathName": "pages/detail/detail",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "cart",
+          "pathName": "pages/cart/cart",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": 3,
+          "name": "add-review",
+          "pathName": "pages/add-review/add-review",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "order",
+          "pathName": "pages/order/order",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "review",
+          "pathName": "pages/review/review",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
